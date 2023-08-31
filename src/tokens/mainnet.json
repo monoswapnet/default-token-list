@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Wrapped MonoMoney",
+    "address": "0x8D8fcD7bF810812cAb0E1AFE0824B3b866417EcD",
+    "symbol": "WMONO",
+    "decimals": 18,
+    "chainId": 3638,
+    "logoURI": "https://monoswap.net/logos/0x8D8fcD7bF810812cAb0E1AFE0824B3b866417EcD/logo.png"
+  }
+]
